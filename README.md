@@ -1,0 +1,1 @@
+# Spotigy-BatchProcessing-MongoDB
